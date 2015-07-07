@@ -3,7 +3,7 @@
 a smiple web application using python and flask to google's word2vec ,
 given four words it tries to find the odd one.
 
-to see a life example:
+see alife demo:
 http://pegasus99.pythonanywhere.com/
 
 
