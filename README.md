@@ -1,9 +1,9 @@
 # word2vec_simple_app
 
-a smiple web application using python and flask to google's word2vec ,
+a smiple web application using python and flask to word2vec ,
 given four words it tries to find the odd one.
 
-see alife demo:
+see a life demo:
 http://pegasus99.pythonanywhere.com/
 
 
